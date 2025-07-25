@@ -1,15 +1,15 @@
-#Business Insights
+# Business Insights
 
-##Overview
+## Overview
 
 Busniess Insights is a data-driven project designed to empower H Café in Trivandrum. The project aims to provide actionable insights derived from data analysis, offering a comprehensive view of key performance indicators and trends.
 
-##Problem Statement
+## Problem Statement
 H Café is seeing plenty of people walk through the door, but sales haven’t really picked up. The team isn’t sure which drinks and snacks are the real money‑makers, which times of day are slow, or which customers come back most often. Right now, promotions and discounts feel like guesses instead of smart moves.
 
 To fix that, we’re building a simple dashboard that pulls together all the café’s sales data.
 
-###It’ll show you:
+### It’ll show you:
 Which menu items sell the best (and which sit on the shelf).
 How sales change by hour, day of the week, or season
 What each customer spends and how often they return.
